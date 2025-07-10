@@ -209,3 +209,7 @@ footer nav ul li {
   color: #8987a1;
   margin: 30px 15px;
 }
+footer nav ul li a {
+  text-decoration: none;
+  color: #8987a1;
+}
