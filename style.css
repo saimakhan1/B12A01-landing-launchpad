@@ -16,8 +16,14 @@
   border-radius: 10px;
   border: none;
   padding: 12px 36px;
+  transition: 0.5s;
 }
+.btn-primary:hover {
+  color: #4e47ef;
+  background-color: #ffffff;
 
+  border: 1px solid #4e47ef;
+}
 .padding1 {
   padding-left: 141px;
   padding-right: 159px;
