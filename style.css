@@ -152,16 +152,16 @@
 }
 
 .lets-get-in-touch input,
-textarea,
-button {
+.lets-get-in-touch textarea,
+.lets-get-in-touch button {
   margin-bottom: 15px;
   width: 500px;
   outline: none;
 }
 .lets-get-in-touch input[type="text"],
-input[type="email"],
+.lets-get-in-touch input[type="email"],
 textarea,
-button {
+.lets-get-in-touch button {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 22px;
