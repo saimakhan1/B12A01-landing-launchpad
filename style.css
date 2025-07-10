@@ -63,6 +63,75 @@
   height: 328px;
   border-radius: 48px;
 }
+/************productive users styles********************************/
+.productive-users {
+  background-color: rgba(78, 71, 255, 0.1);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  border-radius: 24px;
+  margin-left: 141px;
+  margin-right: 159px;
+  margin-bottom: 137px;
+}
+
+.productive-users h1 {
+  font-family: raleway;
+  font-weight: bold;
+  font-size: 38px;
+}
+
+.productive-users .pro {
+  display: flex;
+  justify-content: space-around;
+  font-family: inter;
+}
+
+.productive-users .pro h1 {
+  color: #4e47ff;
+  font-size: 80px;
+  font-family: inter;
+}
+
+.productive-users .pro p {
+  color: #000000;
+  opacity: 0.5;
+  font-size: 20px;
+}
+/******users feedback styles********************************/
+.users-feedback {
+  text-align: center;
+}
+.feedback {
+  display: flex;
+  gap: 20px;
+}
+.feedback1 {
+  padding: 24px;
+  background-color: white;
+  text-align: left;
+  width: 29%;
+}
+.feedback1 .reviewer {
+  margin-top: 7px;
+  display: flex;
+}
+.feedback1 .reviewer img {
+  border-radius: 50%;
+  margin-right: 10px;
+}
+/**********focus styles******************************/
+.focus {
+  background-color: white;
+  margin-left: 141px;
+  margin-right: 159px;
+  margin-top: 137px;
+  padding: 71px 150px;
+  text-align: center;
+}
+.focus img {
+  border-radius: 48px;
+}
 /*****footer styles******/
 footer {
   background-color: #ffffff;
