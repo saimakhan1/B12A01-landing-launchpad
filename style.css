@@ -172,6 +172,7 @@ textarea,
 .lets-get-in-touch textarea {
   width: 497px;
   height: 187px;
+  color: rgba(0, 0, 0, 0.5);
 }
 /*****footer styles******/
 footer {
