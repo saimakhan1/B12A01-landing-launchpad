@@ -137,6 +137,41 @@
   margin-left: 141px;
   margin-right: 159px;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 71px 0;
+}
+.lets-get-in-touch .get-left {
+  width: 528px;
+  height: 232px;
+}
+.lets-get-in-touch h1 {
+  font-size: 97px;
+  font-weight: bold;
+  font-family: raleway;
+}
+
+.lets-get-in-touch input,
+textarea,
+button {
+  margin-bottom: 15px;
+  width: 500px;
+  outline: none;
+}
+.lets-get-in-touch input[type="text"],
+input[type="email"],
+textarea,
+button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 22px;
+  border-radius: 10px;
+  border: none;
+}
+
+.lets-get-in-touch textarea {
+  width: 497px;
+  height: 187px;
 }
 /*****footer styles******/
 footer {
