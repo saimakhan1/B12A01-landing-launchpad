@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-color: #fff8f5;
+}
+
+/**shared styles**/
+.btn-primary {
+  background-color: #4e47ef;
+  color: white;
+  font-size: 16px;
+  border-radius: 10px;
+  border: none;
+}
+/*navbar-banner styles*************************/
+.navbar-banner {
+  height: 698px;
+  background-image: url("Assets/Hero-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.navbar-banner nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 150px;
+}
+
+.cooldark {
+  width: 905px;
+  height: 237px;
+  padding-bottom: 85px;
+  text-align: center;
+  margin: 0 auto;
+}
+.cooldark h1 {
+  padding: 158px 0 237px;
+}
+
+/*****footer styles******/
+footer {
+  background-color: #ffffff;
+}

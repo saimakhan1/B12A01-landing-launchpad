@@ -1,0 +1,6 @@
+
+container 1, footer
+
+container 1--> navbar and banner, action, productive users, users-feedback, focus-better, lets-get-in-touch, 
+
+** navbar and banner section has background image
