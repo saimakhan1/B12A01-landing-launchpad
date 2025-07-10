@@ -176,4 +176,29 @@ button {
 /*****footer styles******/
 footer {
   background-color: #ffffff;
+  text-align: center;
+
+  padding: 104px 575px 95px;
+}
+
+footer h1 {
+  font-weight: bold;
+  color: #4e47ff;
+  font-family: inter;
+  font-size: 100px;
+}
+footer p {
+  color: #8987a1;
+}
+footer nav ul {
+  display: flex;
+  justify-content: center;
+}
+footer nav ul {
+  list-style: none;
+}
+footer nav ul li {
+  text-decoration: none;
+  color: #8987a1;
+  margin: 30px 15px;
 }
