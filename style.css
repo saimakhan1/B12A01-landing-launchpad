@@ -132,6 +132,12 @@
 .focus img {
   border-radius: 48px;
 }
+/****let's get in touch styles****************/
+.lets-get-in-touch {
+  margin-left: 141px;
+  margin-right: 159px;
+  display: flex;
+}
 /*****footer styles******/
 footer {
   background-color: #ffffff;
